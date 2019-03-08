@@ -1,0 +1,11 @@
+{
+    "station":
+    [
+     {
+     "name": "Kafa Radyo",
+     "streamURL": "http://kafaradyo.com/stream/510/",
+     "imageURL": "http://www.radyoland.net//Content/images/logo/kafa-radyo-logo-2019-1-29-5-1-11.jpg",
+     "desc": "Türkiye'nin en kafa radyosu",
+     "longDesc": "Nihat Sırdar, Güçlü Mete, İlber Ortaylı, Can Yılmaz, Zafer Algöz gibi efsane isimleri barındıran Türkiye'nin en Kafa Radyosu, şimdi yayında!"
+     }]
+}
