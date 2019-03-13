@@ -1,6 +1,6 @@
-# Kafa Radyo
+# Kf Radyo
 
-Kafa radyo uygulaması, Swift Radio open source kaynak kodların üzerinde geliştirilmiş radyo dinleme uygulamasıdır. İçerisinde podcast için ayrı bir kısım mevcuttur. Firebase bağlantısı sayesinde kullanıcılara canlı yayın başlamadan evvel bildirim gönderme imkanı sağlanmıştır.
+Kf radyo uygulaması, Swift Radio open source kaynak kodların üzerinde geliştirilmiş radyo dinleme uygulamasıdır. İçerisinde podcast için ayrı bir kısım mevcuttur. Firebase bağlantısı sayesinde kullanıcılara canlı yayın başlamadan evvel bildirim gönderme imkanı sağlanmıştır.
 
 # Özellikleri
 
