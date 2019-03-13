@@ -5,6 +5,7 @@
 //  Created by Matthew Fecher on 7/19/15.
 //  Copyright (c) 2015 MatthewFecher.com. All rights reserved.
 //
+// Last updated 3/4/19 by Emre Işık
 
 import UIKit
 import MediaPlayer
@@ -66,7 +67,7 @@ class StationsViewController: UIViewController {
         super.viewDidLoad()
         
         bannerView = GADBannerView(adSize: kGADAdSizeBanner)
-        bannerView.adUnitID = "ca-app-pub-8378558199375807/4811434594"
+        bannerView.adUnitID = "ca-app-pub-3940256099942544/6300978111"
         bannerView.rootViewController = self
         bannerView.load(GADRequest())
         addBannerViewToView(bannerView)
