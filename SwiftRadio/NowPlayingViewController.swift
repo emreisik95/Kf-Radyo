@@ -5,6 +5,7 @@
 //  Created by Matthew Fecher on 7/22/15.
 //  Copyright (c) 2015 MatthewFecher.com. All rights reserved.
 //
+// Last Update 3/4/2019 by Emre Işık
 
 import UIKit
 import MediaPlayer
@@ -64,7 +65,7 @@ class NowPlayingViewController: UIViewController {
         super.viewDidLoad()
         themeBackground.image = Theme.backgroundImage
         let bannerView = GADBannerView(adSize: kGADAdSizeBanner)
-        bannerView.adUnitID = "ca-app-pub-8378558199375807/4811434594"
+        bannerView.adUnitID = "ca-app-pub-3940256099942544/6300978111"
         bannerView.rootViewController = self
         bannerView.load(GADRequest())
         addBannerViewToView(bannerView)
