@@ -1,3 +1,8 @@
+//
+// Created by Emre Işık
+// Last update on 3/4/19
+
+
 import UIKit
 import MediaPlayer
 import AVFoundation
@@ -60,7 +65,7 @@ class PodcastsViewController: UIViewController {
         nowPlayView.backgroundColor = Theme.backgroundColor
         themeBackground.image = Theme.backgroundImage
         bannerView = GADBannerView(adSize: kGADAdSizeBanner)
-        bannerView.adUnitID = "ca-app-pub-8378558199375807/4811434594"
+        bannerView.adUnitID = "ca-app-pub-3940256099942544/6300978111"
         bannerView.rootViewController = self
         bannerView.load(GADRequest())
         addBannerViewToView(bannerView)
